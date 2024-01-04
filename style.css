@@ -225,5 +225,21 @@ ul li{
     top: 350px;
 
 }
+.category{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    height: 180px;
+    gap: 50px;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+.product img{
+    height: 120px;
+}
 
 
