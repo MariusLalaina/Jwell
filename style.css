@@ -183,3 +183,47 @@ ul li{
     position: absolute;
     left: 820px;
 }
+.middle-card{
+    margin:50px 55px;
+    display: flex;
+    gap: 20px;
+}
+.left-card{
+    background-image: url(img/Rectangle\ 38.jpg);
+    width: 50%;
+    height: 540px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.right-card{
+    background-image: url(img/Rectangle\ 38\(1\).jpg);
+    width: 50%;
+    height: 540px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.middle-card p:nth-child(3){
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 5px;
+    color: #5768D6;
+}
+.middle-card p:nth-child(1){
+    font-size: 40px;
+}
+.middle-card p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 350px;
+
+}
+
+
