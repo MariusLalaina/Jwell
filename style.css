@@ -307,3 +307,16 @@ ul li{
 .second-left{
     margin: 20px;
 }
+.tendance-top{
+    margin:55px;
+    display: flex;
+    justify-content: space-between;
+}
+.tendance-brand{
+    font-size: 30px;
+}
+.tendance-right{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
